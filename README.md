@@ -21,7 +21,7 @@ The Subaru WRX STI represents the pinnacle of Subaru's performance engineering, 
   - 2021 STI EJ25 Final Edition (Japan market)
   - Various market-specific special editions celebrating the STI's heritage
 
-The WRX STI was discontinued after 2021, marking the end of the EJ25 era. While the standard WRX continues with a new generation, the STI nameplate has been retired from the current lineup as of 2022. [[Subaru STI Heritage]](https://www.subaru.com/enthusiasts/sti.html)
+The WRX STI was discontinued after 2021, marking the end of the EJ25 era. While the standard WRX continues with a new generation, the STI nameplate has been retired from the current lineup as of 2022.
 
 ## Contributing
 
