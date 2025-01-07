@@ -6,9 +6,18 @@ This repository contains signal set configurations for the Subaru WRX STI, organ
 
 The Subaru WRX STI represents the pinnacle of Subaru's performance engineering, with a rich motorsport heritage:
 
-- **First Generation (2004-2007)**: The first STI officially brought to North America featured a potent EJ257 2.5L turbocharged boxer engine producing 300 hp. Notable features included a Driver Controlled Center Differential (DCCD), Brembo brakes, and distinctive gold BBS wheels. This generation established the STI's reputation for exceptional performance with its advanced all-wheel-drive system and rally-bred engineering.
+- **First Generation (2004-2007)**: The first STI officially introduced to North America delivered an adrenaline-pumping experience with its EJ257 2.5L turbocharged boxer engine, producing 300 hp. Highlights of this generation included:
+  - The Driver Controlled Center Differential (DCCD) for customizable AWD performance
+  - Legendary Brembo brakes for unmatched stopping power
+  - Signature gold BBS wheels, instantly recognizable in motorsport circles
 
-- **Second Generation (2008-2014)**: The second generation brought controversial styling changes but significant performance improvements. The EJ257 engine was refined to maintain 305 hp while improving reliability. Key features included a revised DCCD system, more sophisticated SI-Drive system, and improved suspension geometry. The 2011 refresh introduced wide-body styling and handling improvements.
+With its advanced all-wheel-drive system and rally-proven engineering, this generation laid the foundation for the STI’s legendary reputation.
+
+- **Second Generation (2008-2014)**: Though its styling sparked debates among enthusiasts, this generation brought noteworthy advancements in performance and handling. The refined EJ257 engine maintained 305 hp while enhancing durability. Key upgrades included:
+  - An updated DCCD system for better traction and control
+  - The addition of the SI-Drive system, offering selectable performance modes
+  - Suspension geometry refinements for improved handling dynamics
+The 2011 refresh introduced aggressive wide-body styling, enhancing aerodynamics and solidifying this generation’s status as a driver’s car.
 
 - **Third Generation (2015-2021)**: This generation marked significant chassis improvements while maintaining the proven EJ257 powerplant, now producing 310 hp. Notable updates included a stiffer chassis, improved aerodynamics, and more refined interior. The STI received hydraulic steering (versus the WRX's electric system) and more sophisticated differential controls. Key features included:
   - Active Torque Vectoring
