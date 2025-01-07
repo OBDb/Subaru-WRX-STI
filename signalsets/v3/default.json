@@ -1,2 +1,10 @@
-{ "commands": []
-}
+{ "commands": [
+    { "hdr": "753", "rax": "75B", "fcm1": true, "cmd": {"22": "1022"}, "freq": 15,
+      "signals": [
+        {"id": "WRX_TP_RL", "path": "Tires", "fmt": {           "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Rear left tire pressure", "suggestedMetric": "rearLeftTirePressure"},
+        {"id": "WRX_TP_RR", "path": "Tires", "fmt": {"bix": 8,  "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Rear right tire pressure",  "suggestedMetric": "rearRightTirePressure"},
+        {"id": "WRX_TP_FR", "path": "Tires", "fmt": {"bix": 16, "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Front right tire pressure",  "suggestedMetric": "frontRightTirePressure"},
+        {"id": "WRX_TP_FL", "path": "Tires", "fmt": {"bix": 24, "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Front left tire pressure",   "suggestedMetric": "frontLeftTirePressure"}
+      ]}
+    ]
+    }
